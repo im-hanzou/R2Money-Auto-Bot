@@ -2,6 +2,8 @@
 
 An automated bot for interacting with the R2 Money protocol on the Sepolia testnet. This bot allows users to perform swaps between USDC and R2USD tokens, as well as stake R2USD to receive sR2USD tokens.
 
+- Register: [https://r2.money](https://r2.money?code=6G8BH)
+
 ## Features
 
 - Swap USDC to R2USD
